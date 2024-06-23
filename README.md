@@ -133,7 +133,7 @@ println("Linear value: $linearValue")
 println("EaseInOutQuad value: $easeInOutQuadValue")
 ```
 
-**Feel Free to check out [AnimationApp](https://github.com/Quantamyt/AnimationEngine/blob/main/src/main/java/dev/quantam/demo/AnimationApp.java) and [AnimationDemo](https://github.com/Quantamyt/AnimationEngine/blob/main/src/main/java/dev/quantam/demo/AnimationDemo.java) for more detailed help.**
+**Feel Free to check out [AnimationApp](https://github.com/Quantamyt/KAnimationEngine/blob/main/src/main/kotlin/dev/quantam/kanimation/demo/AnimationApp.kt) for more detailed help.**
 
 ## Contributing
 

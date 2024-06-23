@@ -6,6 +6,8 @@
 
 A simple Kotlin animation library that provides utilities for managing animations with customizable easing functions.
 
+**Go to the [Java Version.](https://github.com/Quantamyt/AnimationEngine)**
+
 ## Installation
 
 You can include this library in your project using JitPack.

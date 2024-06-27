@@ -142,7 +142,3 @@ Contributions are welcome! If you have improvements or additional features to su
 ## License
 
 This project is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) to [Quantam](https://github.com/Quantamyt/)
-
----
-
-This README provides the necessary information for installing, using, and contributing to the Kotlin version of the Animation Engine library.
